@@ -35,7 +35,7 @@ Being able to communicate this work will be essential.  Each model built will in
 ## disclaimer
 
 As failures are learning opportunities both in what does and does not work as well
-as how to determine when to abandon a method, this project will likely contain several
+as how to determine when to abandon a method.  This project will likely contain several
 incomplete and abandoned models.  
 
 ## out of scope
